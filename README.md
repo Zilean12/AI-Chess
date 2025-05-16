@@ -62,9 +62,6 @@
 - [Rishabh Gupta](https://github.com/Rishabh2333g)
 
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 🙌 Acknowledgments
 - Special thanks to [chessboard.js](https://chessboardjs.com/) and [chess.js](https://github.com/jhlywa/chess.js) for their fantastic libraries.
 - Gratitude to the open-source chess and AI communities for inspiration and resources.
